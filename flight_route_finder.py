@@ -45,6 +45,6 @@ route, total_cost, explored_count = ucs_cheapest_route(
 if route:
     print("Cheapest route:", route)
     print("Total ticket cost:", total_cost)
-    print("Total routes explored:", explored_count)
+    print("Total partial paths explored:", explored_count)
 else:
     print("No route found.")
