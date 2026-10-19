@@ -5,7 +5,8 @@ network = {
     "Sara": ["Ali", "Omar"],
     "Zara": ["Bilal", "Hira"],
     "Omar": ["Sara"],
-    "Hira": ["Zara"],
+    "Hira": ["Zara", "Noor"],
+    "Noor": ["Hira"],
 }
 
 
