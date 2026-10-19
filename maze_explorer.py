@@ -6,8 +6,9 @@ maze = {
     "Room1": [],
     "Room2": ["Exit"],
     "Trap": [],
-    "Exit": [],
+    "ExitRoom": [],
     "SecretRoom":[]
+
 }
 
 
