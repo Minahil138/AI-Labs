@@ -1,4 +1,4 @@
-
+# Lab 7 - BFS Friend Finder
 network = {
     "Ali": ["Bilal", "Sara"],
     "Bilal": ["Ali", "Zara"],
